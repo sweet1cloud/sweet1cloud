@@ -1,15 +1,48 @@
-### Hi there 👋
+### 안녕하세요 ! 👋
+## sweet1cloud (Doyun Lee)
 
-**sweet1cloud/sweet1cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sweet1cloud / sweet1cloud**는 `README.md`(이 파일)가 GitHub(깃허브) 프로필에 나타나기 때문에 ✨ _특별한_ ✨ 저장소입니다.</br>
+저에 대해서 소개해보도록 하겠습니다!
 
-Here are some ideas to get you started:
+### 🔭 활동 및 작업 경력 ...
+ - **2016년부터 다양한 온라인 활동을 하고 있습니다.**
+ - 자세한 활동 경력(팀 활동 포함)은 [여기](https://hirool.tistory.com/44)를 참고해주세요.<br/>
+ - 현재 [네이버 블로그](https://blog.naver.com/idoyun027) 운영 중.
+ - 2016 ~ 2020년 게임 & IT 및 잡다한 주제의 [유튜브](https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg) 운영 (현재는 잠깐 쉬고 있고 조만간 유튜브 활동 준비할 예정입니다.)
+ - 개인 개발 프로젝트인 "**도르크 프로젝트**" 진행 준비중
+ - 前 (舊) Cherry Networks(Devup) 기획팀 담당자 및 소속 팀원 (2020.04.10 ~ 2020.04.26)<br/>
+ - 現 Cherry Networks, Devup 7월부터 활동 준비중 (8월 이후 본격적으로 활동 준비 예정)<br/>
+   (구 체리네트워크과 현 체리네트워크는 전혀 다른 팀임을 알려드립니다.)
+ - 前 게임 팀 TNBOX, 프로젝트 TV 팀장 및 다수의 팀 운영 및 활동 경력 보유
+ - 디스코드 챗봇 "도르크봇" 개발 및 운영
 
-### 🔭 I’m currently working on ...
-### 🌱 I’m currently learning ...
-### 👯 I’m looking to collaborate on ...
-### 🤔 I’m looking for help with ...
-### 💬 Ask me about ...
-### 📫 How to reach me: ...
- - Mail: idoyun027@gmail.com
-### 😄 Pronouns: ...
-### ⚡ Fun fact: ...
+### 🌱 배우는 것들 ...
+ - **프로그래밍 및 컴퓨터, IT 분야에 관련된 것들을 배우고 있습니다.**
+ - HTML
+ - Python(discord.py)
+ - Raspberry Pi OS(Raspbian)
+ - Windows
+### 📚 배우고 싶은 것들 ...
+ - JS(JavaScript)
+ - C/C++/C#
+ - Linux
+### 👍 좋아하는 것들 ...
+ - 게임
+ - 독서
+ - 유튜브 보기
+ - 인터넷 검색
+ - 메신저로 사람들과 소통하기
+### 💬 질문 ...
+ - 궁금한 점은 idoyun027@gmail.com 메일 보내주세요!
+### 📫 연락하는 방법
+ - E-Mail: idoyun027@gmail.com
+ - Blog: https://blog.naver.com/idoyun027
+ - Discord: Sweet_Cloud#9892
+### ⚡ 재밌는 사실: ...
+ - 초등학교 1학년 때부터 인터넷 문화를 접하게 되었습니다. 2015년에 유튜브를 알게 돼서 처음으로 유튜브에 동영상을 업로드하기 시작했고,
+   2016년부터는 본격적으로 유튜브 활동을 했었습니다. 유튜브 활동을 했었을 때는 게임 유튜브를 운영했었습니다.
+   게임 유튜브 시절에는 초딩답게(?) 마인크래프트를 자주했고 모바일 게임도 가끔씩 했습니다. (2018년 이후로는 스팀 게임도 하고 있습니다.)
+   저는 주변에 몇몇 사람들에게도 유튜버라고 알려졌지만 현재는 슬럼프(?)가 왔기도 했고,
+   과거의 편집 실력이나 컨텐츠 진행이 썩 좋지 않았기에 잠깐 쉬면서 더욱 탄탄히 준비하고 있습니다.
+   
+#### [ **sweet1cloud (Doyun Lee)의 소개 끝** ]
