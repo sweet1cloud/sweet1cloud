@@ -79,7 +79,6 @@ Let me introduce myself!
 ### 📚 Want to learn programming languages !
  - JS(JavaScript)
  - C/C++/C#
- - Linux
 ### 👍 My favorite things !
  - 🎮 Playing games
  - 📖 reading a book
