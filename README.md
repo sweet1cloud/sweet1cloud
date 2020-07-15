@@ -60,8 +60,8 @@ Let me introduce myself!
 ### 🔭 I'm currently working on ... !
  - **Since 2016, we have been doing online activities.**
  - Please refer to [Here](https://hirool.tistory.com/44) for detailed activity experience (including team activities).<br/>
- - [Currently running Naver Blog](https://blog.naver.com/idoyun027)
- - 2016~2020 Game & IT and miscellaneous topics [YouTube] (https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg) operation<br/>
+ - Currently running [Naver Blog](https://blog.naver.com/idoyun027)
+ - 2016~2020 Game & IT and miscellaneous topics [YouTube](https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg) operation<br/>
    (currently we are taking a break and we will be preparing for YouTube activity soon.)
  - A personal development project "**sweet1cloud Project(Korean: 도르크 프로젝트)**" is being prepared.
  - (Old) Cherry Networks (Devup) Planning Team Manager & Team Member (2020.04.10 ~ 2020.04.26)<br/>
@@ -80,7 +80,7 @@ Let me introduce myself!
  - JS(JavaScript)
  - C/C++/C#
  - Linux
-### 👍 (My favorite things) !
+### 👍 My favorite things !
  - 🎮 Playing games
  - 📖 reading a book
  - Watching a youtube
