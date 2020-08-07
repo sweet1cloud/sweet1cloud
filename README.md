@@ -10,6 +10,7 @@
  - 자세한 활동 경력(팀 활동 포함)은 [여기](https://hirool.tistory.com/44)를 참고해주세요.<br/>
  - 현재 [네이버 블로그](https://blog.naver.com/idoyun027) 운영 중.
  - 2016 ~ 2020년 게임 & IT 및 잡다한 주제의 [유튜브](https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg) 운영 (현재는 잠깐 쉬고 있고 조만간 유튜브 활동 준비할 예정입니다.)
+ - 2020년 8월 6일 새로운 [유튜브](https://www.youtube.com/channel/UCOwQzRHUr1xvPHadDBR0--g) 채널 생성(바로 위에 있는 유튜브 링크하고는 다른 채널)
  - 개인 개발 프로젝트인 "**도르크 프로젝트**" 진행 준비중
  - 前 (舊) Cherry Networks(Devup) 기획팀 담당자 및 소속 팀원 (2020.04.10 ~ 2020.04.26)<br/>
  - 現 Cherry Networks, Devup 7월부터 활동 준비중 (8월 이후 본격적으로 활동 준비 예정)<br/>
@@ -63,6 +64,7 @@ Let me introduce myself!
  - Currently running [Naver Blog](https://blog.naver.com/idoyun027)
  - 2016~2020 Game & IT and miscellaneous topics [YouTube](https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg) operation<br/>
    (currently we are taking a break and we will be preparing for YouTube activity soon.)
+ - August 6, 2020, New [YouTube](https://www.youtube.com/channel/UCOwQzRHUr1xvPHadDBR0--g) channel creation (different from the YouTube link directly above)
  - A personal development project "**sweet1cloud Project(Korean: 도르크 프로젝트)**" is being prepared.
  - (Old) Cherry Networks (Devup) Planning Team Manager & Team Member (2020.04.10 ~ 2020.04.26)<br/>
  - (New) Cherry Networks, Devup ready for activity from July (starting in earnest after August)<br/>
