@@ -41,6 +41,7 @@
  - E-Mail: idoyun027@gmail.com
  - Blog: https://blog.naver.com/idoyun027
  - Discord: Sweet_Cloud#9892
+ - YouTube: [YouTube](https://www.youtube.com/channel/UCOwQzRHUr1xvPHadDBR0--g)
 ### 😄⚡ 재밌는 사실 !
  - 초등학교 1학년 때부터 인터넷 문화를 접하게 되었습니다. 2015년에 유튜브를 알게 돼서 처음으로 유튜브에 동영상을 업로드하기 시작했고,<br/>
    2016년부터는 본격적으로 유튜브 활동을 했었습니다. 유튜브 활동을 했었을 때는 게임 유튜브를 운영했었습니다.<br/>
@@ -94,6 +95,7 @@ Let me introduce myself!
  - E-Mail: idoyun027@gmail.com
  - Blog: https://blog.naver.com/idoyun027
  - Discord: Sweet_Cloud#9892
+ - YouTube: [YouTube](https://www.youtube.com/channel/UCOwQzRHUr1xvPHadDBR0--g)
 ### 😄⚡ Fun Fact !
  - I have been met to Internet culture since the first grade of elementary school. In 2015, I got to know YouTube and started uploading videos to YouTube for the first time<br/>
    I have been active on YouTube since 2016. While working on YouTube, I started a Youtube game.<br/>
