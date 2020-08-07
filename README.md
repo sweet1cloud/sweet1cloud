@@ -1,7 +1,7 @@
 # - introduction of sweet1cloud (Doyun Lee) (KR/ENG) -
-# - sweet1cloud (이도윤)의 깃허브 소개 (KR) -
-## 안녕하세요 ! 👋 (KR)
-### sweet1cloud (Doyun Lee)
+## - sweet1cloud (이도윤)의 깃허브 소개 (KR) -
+### 안녕하세요 ! 👋 (KR)
+#### sweet1cloud (Doyun Lee)
 
 **sweet1cloud / sweet1cloud**는 `README.md`(이 파일)가 GitHub(깃허브) 프로필에 나타나기 때문에 ✨ _특별한_ ✨ 저장소입니다.</br>
 저에 대해서 소개해보도록 하겠습니다!
@@ -52,9 +52,9 @@
    
 <hr/>
 
-# - Introducing sweet1cloud's github (ENG) -
-## Hello guys! :) 👋
-### sweet1cloud (Doyun Lee)
+## - Introducing sweet1cloud's github (ENG) -
+### Hello guys! :) 👋
+#### sweet1cloud (Doyun Lee)
 
 **sweet1cloud/sweet1cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br/>
 Let me introduce myself!
