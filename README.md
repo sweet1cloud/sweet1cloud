@@ -16,9 +16,8 @@
  - 前 (舊) Cherry Networks(Devup) 기획팀 담당자 및 소속 팀원 (2020.04.10 ~ 2020.04.26)<br/>
  - **팀 어센틱 1기 결성 멤버 및 제19회 2020 KWC (Korea Wi.content Contest) 콘텐츠 제작 모바일 웹 분야 참여 – 기획 팀원 (2020년 6월 15일 ~ 8월 4일)**
  - **제19회 2020 KWC (Korea Wi.content Contest) 예선 탈락**
+ - **2020년 7월 20일 팀 어센틱 2기 결성 및 활동 시작**
  - **2020년 8월 26일 – 팀 어센틱(Team Acentic) → 어센틱 네트워크(Acentic Networks) 명칭 변경 및 MTN(Multi Team Network)로써의 기능 확장**
- - 現 Cherry Networks, Devup 7월부터 활동 준비중 (8월 이후 본격적으로 활동 준비 예정)<br/>
-   (구 체리네트워크과 현 체리네트워크는 전혀 다른 팀임을 알려드립니다.)
  - 前 게임 팀 TNBOX, 프로젝트 TV 팀장 및 다수의 팀 운영 및 활동 경력 보유
  - 디스코드 챗봇 "**도르크봇**" 개발 및 운영
 
@@ -74,6 +73,7 @@ Let me introduce myself!
  - (Old) Cherry Networks (Devup) Planning Team Manager & Team Member (2020.04.10 ~ 2020.04.26)<br/>
  - **Team Acentic 1st group formation member and participation in the 19th 2020 KWC (Korea Wi.content Contest) content production mobile web field-Planning team member (June 15th ~ August 4th, 2020)**
  - **Excluded from the 19th 2020 KWC (Korea Wi.content Contest) preliminary round**
+ - **Team Acentic Phase 2 configuration and activities start on July 20, 2020**
  - **August 26, 2020-Team Acentic → Changed the name of Acentic Networks and expanded the function as MTN (Multi Team Network)**
    (Please note that the previous Cherry Network and the current Cherry Network are completely different teams.)
  - (Old) game team TNBOX, project TV team leader and multiple team operations and experience
