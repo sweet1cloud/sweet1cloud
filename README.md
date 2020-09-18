@@ -17,7 +17,12 @@
  - **팀 어센틱 1기 결성 멤버 및 제19회 2020 KWC (Korea Wi.content Contest) 콘텐츠 제작 모바일 웹 분야 참여 – 기획 팀원 (2020년 6월 15일 ~ 8월 4일)**
  - **제19회 2020 KWC (Korea Wi.content Contest) 예선 탈락**
  - **2020년 7월 20일 팀 어센틱 2기 결성 및 활동 시작**
- - **2020년 8월 26일 – 팀 어센틱(Team Acentic) → 어센틱 네트워크(Acentic Networks) 명칭 변경 및 MTN(Multi Team Network)로써의 기능 확장**
+ - **2020년 8월 26일 – 팀 어센틱(Team Acentic) → 어센틱 네트워크(Acentic Network) 명칭 변경 및 MTN(Multi Team Network)로써의 기능 확장**
+ - 2020년 8월 26일 – 팀 어센틱(Team Acentic) → 어센틱 네트워크(Acentic Network) 명칭 변경
+ - 2020년 8월 27일 – 어센틱 네트워크 내부 팀 – 어센틱 튜토리얼(Acentic Tutorials) 결성
+ - 2020년 9월 6일 – 개인 유튜브 활동 준비
+ - **2020년 9월 18일 – 어센틱 네트워크 해체 및 어센틱 튜토리얼 독립**
+ - **2020년 9월 18일 ~ ing – 무소속**
  - 前 게임 팀 TNBOX, 프로젝트 TV 팀장 및 다수의 팀 운영 및 활동 경력 보유
  - 디스코드 챗봇 "**도르크봇**" 개발 및 운영
 
