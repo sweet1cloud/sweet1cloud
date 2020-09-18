@@ -14,10 +14,10 @@
  - 2020년 8월 6일 새로운 [유튜브](https://www.youtube.com/channel/UCOwQzRHUr1xvPHadDBR0--g) 채널 생성(바로 위에 있는 유튜브 링크하고는 다른 채널)
  - 개인 개발 프로젝트인 "**도르크 프로젝트**" 진행 준비중
  - 前 (舊) Cherry Networks(Devup) 기획팀 담당자 및 소속 팀원 (2020.04.10 ~ 2020.04.26)<br/>
- - **팀 어센틱 1기 결성 멤버 및 제19회 2020 KWC (Korea Wi.content Contest) 콘텐츠 제작 모바일 웹 분야 참여 – 기획 팀원 (2020년 6월 15일 ~ 8월 4일)**
+ - 팀 어센틱 1기 결성 멤버 및 제19회 2020 KWC (Korea Wi.content Contest) 콘텐츠 제작 모바일 웹 분야 참여 – 기획 팀원 (2020년 6월 15일 ~ 8월 4일)
  - **제19회 2020 KWC (Korea Wi.content Contest) 예선 탈락**
  - **2020년 7월 20일 팀 어센틱 2기 결성 및 활동 시작**
- - **2020년 8월 26일 – 팀 어센틱(Team Acentic) → 어센틱 네트워크(Acentic Network) 명칭 변경 및 MTN(Multi Team Network)로써의 기능 확장**
+ - **2020년 8월 26일 – 팀 어센틱(Team Acentic) → 어센틱 네트워크(Acentic Network) 명칭 변경**
  - 2020년 8월 26일 – 팀 어센틱(Team Acentic) → 어센틱 네트워크(Acentic Network) 명칭 변경
  - 2020년 8월 27일 – 어센틱 네트워크 내부 팀 – 어센틱 튜토리얼(Acentic Tutorials) 결성
  - 2020년 9월 6일 – 개인 유튜브 활동 준비
