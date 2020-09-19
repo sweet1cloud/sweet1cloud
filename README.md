@@ -76,11 +76,14 @@ Let me introduce myself!
  - August 6, 2020, New [YouTube](https://www.youtube.com/channel/UCOwQzRHUr1xvPHadDBR0--g) channel creation (different from the YouTube link directly above)
  - A personal development project "**sweet1cloud Project(Korean: 도르크 프로젝트)**" is being prepared.
  - (Old) Cherry Networks (Devup) Planning Team Manager & Team Member (2020.04.10 ~ 2020.04.26)<br/>
- - **Team Acentic 1st group formation member and participation in the 19th 2020 KWC (Korea Wi.content Contest) content production mobile web field-Planning team member (June 15th ~ August 4th, 2020)**
+ - Team Acentic 1st group formation member and participation in the 19th 2020 KWC (Korea Wi.content Contest) content production mobile web field-Planning team member (June 15th ~ August 4th, 2020)
  - **Excluded from the 19th 2020 KWC (Korea Wi.content Contest) preliminary round**
  - **Team Acentic Phase 2 configuration and activities start on July 20, 2020**
- - **August 26, 2020-Team Acentic → Changed the name of Acentic Networks and expanded the function as MTN (Multi Team Network)**
-   (Please note that the previous Cherry Network and the current Cherry Network are completely different teams.)
+ - **August 26, 2020 - Team Acentic → Changed the name of Acentic Networks.**
+ - August 27, 2020 - Acentic Network internal team - Acentic Tutorials configuration
+ - September 6, 2020 - Preparing for personal YouTube activities
+ - **September 18, 2020 - Acentic Network disruption and Acentic Tutorials independent**
+ - **September 18, 2020 ~ ing - Independent**
  - (Old) game team TNBOX, project TV team leader and multiple team operations and experience
  - Developed and operated Discord Chatting bot "**DORKE BOT(Korean: 도르크봇)**"
 
