@@ -6,6 +6,8 @@
 **sweet1cloud / sweet1cloud**는 `README.md`(이 파일)가 GitHub(깃허브) 프로필에 나타나기 때문에 ✨ _특별한_ ✨ 저장소입니다.</br>
 저에 대해서 소개해보도록 하겠습니다!
 
+**[ 스압(스크롤 압박) 주의! ]**
+
 ### 🔭 활동 및 작업 경력 !
  - **2016년부터 다양한 온라인 활동을 하고 있습니다.**
  - 자세한 활동 경력(팀 활동 포함)은 [여기](https://hirool.tistory.com/44)를 참고해주세요.<br/>
@@ -18,7 +20,6 @@
  - **제19회 2020 KWC (Korea Wi.content Contest) 예선 탈락**
  - **2020년 7월 20일 팀 어센틱 2기 결성 및 활동 시작**
  - **2020년 8월 26일 – 팀 어센틱(Team Acentic) → 어센틱 네트워크(Acentic Network) 명칭 변경**
- - 2020년 8월 26일 – 팀 어센틱(Team Acentic) → 어센틱 네트워크(Acentic Network) 명칭 변경
  - 2020년 8월 27일 – 어센틱 네트워크 내부 팀 – 어센틱 튜토리얼(Acentic Tutorials) 결성
  - 2020년 9월 6일 – 개인 유튜브 활동 준비
  - **2020년 9월 18일 – 어센틱 네트워크 해체 및 어센틱 튜토리얼 독립**
@@ -32,23 +33,28 @@
  - Python(discord.py)
  - Raspberry Pi OS(Raspbian)
  - Windows
+ 
 ### 📚 배우고 싶은 것들 !
  - JS(JavaScript)
  - C/C++/C#
  - Linux
+ 
 ### 👍 좋아하는 것들 !
  - 🎮 게임하기
  - 📖 독서하기
  - 유튜브 보기
  - 🔎💻 인터넷 검색하기 (특히 나무위키를 많이 본다는 사실)
  - 메신저로 사람들과 소통하기
+ 
 ### 💬 질문 !
  - 궁금한 점은 idoyun027@gmail.com 메일 보내주세요!
+ 
 ### 📫 연락하는 방법 !
  - E-Mail: idoyun027@gmail.com
  - Blog: https://blog.naver.com/idoyun027
  - Discord: Sweet_Cloud#9892
- - YouTube: [YouTube](https://www.youtube.com/channel/UCOwQzRHUr1xvPHadDBR0--g)
+ - YouTube: [YouTube](https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg)
+ 
 ### 😄⚡ 재밌는 사실 !
  - 초등학교 1학년 때부터 인터넷 문화를 접하게 되었습니다. 2015년에 유튜브를 알게 돼서 처음으로 유튜브에 동영상을 업로드하기 시작했고,<br/>
    2016년부터는 본격적으로 유튜브 활동을 했었습니다. 유튜브 활동을 했었을 때는 게임 유튜브를 운영했었습니다.<br/>
@@ -66,6 +72,8 @@
 
 **sweet1cloud/sweet1cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br/>
 Let me introduce myself!
+
+**[ Beware of scroll pressure! ]**
 
 ### 🔭 I'm currently working on ... !
  - **Since 2016, we have been doing online activities.**
@@ -93,22 +101,27 @@ Let me introduce myself!
  - Python(discord.py)
  - Raspberry Pi OS(Raspbian)
  - Windows
+ 
 ### 📚 Want to learn programming languages !
  - JS(JavaScript)
  - C/C++/C#
+ 
 ### 👍 My favorite things !
  - 🎮 Playing games
  - 📖 reading a book
  - Watching a youtube
  - 🔎💻 Internet Searching
  - Communicating with people via messenger
+
 ### 💬 Ask me about !
  - Please email idoyun027@gmail.com with any questions!
+ 
 ### 📫 How to reach me !
  - E-Mail: idoyun027@gmail.com
  - Blog: https://blog.naver.com/idoyun027
  - Discord: Sweet_Cloud#9892
- - YouTube: [YouTube](https://www.youtube.com/channel/UCOwQzRHUr1xvPHadDBR0--g)
+ - YouTube: [YouTube](https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg)
+ 
 ### 😄⚡ Fun Fact !
  - I have been met to Internet culture since the first grade of elementary school. In 2015, I got to know YouTube and started uploading videos to YouTube for the first time<br/>
    I have been active on YouTube since 2016. While working on YouTube, I started a Youtube game.<br/>
