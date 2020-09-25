@@ -3,6 +3,8 @@
 ### 안녕하세요 ! 👋 (KR)
 #### sweet1cloud (Doyun Lee)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sweet1cloud&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 **sweet1cloud / sweet1cloud**는 `README.md`(이 파일)가 GitHub(깃허브) 프로필에 나타나기 때문에 ✨ _특별한_ ✨ 저장소입니다.</br>
 저에 대해서 소개해보도록 하겠습니다!
 
