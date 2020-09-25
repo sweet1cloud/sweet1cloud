@@ -104,8 +104,8 @@ Let me introduce myself!
  - MeetUP (Schedule Matching Service) [KWC21](http://www.21kwc.com/2020/index.html) contest with @YubinHeo, @jinpyojoo, @LeeDonggyu-07)
 
 ### 💾 Project in progress
-  -ProJect H (personal homepage production project)
-  -Archive ProJect (personal record storage)
+ - ProJect H (personal homepage production project)
+ - Archive ProJect (personal record storage)
 
 ### 🌱 I'm currently learning ... !
  -  **💻 I'm learning things about programming, computers, and IT. 💻** 
