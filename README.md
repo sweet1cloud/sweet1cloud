@@ -27,7 +27,7 @@
  - 디스코드 챗봇 "**도르크봇**" 개발 및 운영
  
 ### 🖥️ 이전 프로젝트 !
- - MeetUP (스케줄 매칭 서비스) [KWC21](http://www.21kwc.com/2020/index.html) contest with @YubinHeo, @jinpyojoo, @LeeDonggyu-07)
+ - MeetUP (스케줄 매칭 서비스) [KWC21](http://www.21kwc.com/2020/index.html) contest with [@YubinHeo](https://github.com/yubinheo), [@jinpyojoo](https://github.com/jinpyojoo), [@LeeDonggyu-07](https://github.com/LeeDonggyu-07))
  
 ### 💾 진행 중인 프로젝트 !
  - ProJect H (개인 홈페이지 제작 프로젝트)
@@ -101,7 +101,7 @@ Let me introduce myself!
  - Developed and operated Discord Chatting bot "**DORKE BOT(Korean: 도르크봇)**"
 
 ### 🖥️ Previous Projects !
- - MeetUP (Schedule Matching Service) [KWC21](http://www.21kwc.com/2020/index.html) contest with @YubinHeo, @jinpyojoo, @LeeDonggyu-07)
+ - MeetUP (Schedule Matching Service) [KWC21](http://www.21kwc.com/2020/index.html) contest with [@YubinHeo](https://github.com/yubinheo), [@jinpyojoo](https://github.com/jinpyojoo), [@LeeDonggyu-07](https://github.com/LeeDonggyu-07))
 
 ### 💾 Project in progress
  - ProJect H (personal homepage production project)
