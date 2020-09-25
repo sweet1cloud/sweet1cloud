@@ -21,11 +21,17 @@
  - **2020년 7월 20일 팀 어센틱 2기 결성 및 활동 시작**
  - **2020년 8월 26일 – 팀 어센틱(Team Acentic) → 어센틱 네트워크(Acentic Network) 명칭 변경**
  - 2020년 8월 27일 – 어센틱 네트워크 내부 팀 – 어센틱 튜토리얼(Acentic Tutorials) 결성
- - 2020년 9월 6일 – 개인 유튜브 활동 준비
  - **2020년 9월 18일 – 어센틱 네트워크 해체 및 어센틱 튜토리얼 독립**
  - **2020년 9월 18일 ~ ing – 무소속**
  - 前 게임 팀 TNBOX, 프로젝트 TV 팀장 및 다수의 팀 운영 및 활동 경력 보유
  - 디스코드 챗봇 "**도르크봇**" 개발 및 운영
+ 
+### 🖥️ 이전 프로젝트 !
+ - MeetUP (스케줄 매칭 서비스) [KWC21](http://www.21kwc.com/2020/index.html) contest with @YubinHeo, @jinpyojoo, @LeeDonggyu-07)
+ 
+### 💾 진행 중인 프로젝트 !
+ - ProJect H (개인 홈페이지 제작 프로젝트)
+ - Archive ProJect (개인 기록 저장소)
 
 ### 🌱 배우는 것들 !
  - **프로그래밍 및 컴퓨터, IT 분야에 관련된 것들을 배우고 있습니다.**
@@ -89,11 +95,17 @@ Let me introduce myself!
  - **Team Acentic Phase 2 configuration and activities start on July 20, 2020**
  - **August 26, 2020 - Team Acentic → Changed the name of Acentic Networks.**
  - August 27, 2020 - Acentic Network internal team - Acentic Tutorials configuration
- - September 6, 2020 - Preparing for personal YouTube activities
  - **September 18, 2020 - Acentic Network disruption and Acentic Tutorials independent**
  - **September 18, 2020 ~ ing - Independent**
  - (Old) game team TNBOX, project TV team leader and multiple team operations and experience
  - Developed and operated Discord Chatting bot "**DORKE BOT(Korean: 도르크봇)**"
+
+### 🖥️ Previous Projects !
+ - MeetUP (Schedule Matching Service) [KWC21](http://www.21kwc.com/2020/index.html) contest with @YubinHeo, @jinpyojoo, @LeeDonggyu-07)
+
+### 💾 Project in progress
+  -ProJect H (personal homepage production project)
+  -Archive ProJect (personal record storage)
 
 ### 🌱 I'm currently learning ... !
  -  **💻 I'm learning things about programming, computers, and IT. 💻** 
