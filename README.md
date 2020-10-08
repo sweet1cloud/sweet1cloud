@@ -9,7 +9,10 @@
 저에 대해서 소개해보도록 하겠습니다!
 
 **[ 스압(스크롤 압박) 주의! ]**
+<details>
+ <summary><b>[🔭 온라인 활동 경력 펼치기 / 접기]</b></summary>
 
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 🔭 활동 및 작업 경력 !
  - **2016년부터 다양한 온라인 활동을 하고 있습니다.**
  - 자세한 활동 경력(팀 활동 포함)은 [여기](https://hirool.tistory.com/44)를 참고해주세요.<br/>
@@ -26,37 +29,64 @@
  - **2020년 9월 18일 ~ ing – 무소속**
  - 前 게임 팀 TNBOX, 프로젝트 TV 팀장 및 다수의 팀 운영 및 활동 경력 보유
  - 디스코드 챗봇 "**도르크봇**" 개발 및 운영
+</details>
  
+<details>
+ <summary><b>[🖥️ 이전 프로젝트 펼치기 / 접기]</b></summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 🖥️ 이전 프로젝트 !
  - MeetUP (스케줄 매칭 서비스) [KWC21](http://www.21kwc.com/2020/index.html) contest with [@YubinHeo](https://github.com/yubinheo), [@jinpyojoo](https://github.com/jinpyojoo), [@LeeDonggyu-07](https://github.com/LeeDonggyu-07))
+</details>
  
+<details>
+ <summary><b>[💾 진행 중인 프로젝트 펼치기 / 접기]</b></summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 💾 진행 중인 프로젝트 !
  - ProJect H (개인 홈페이지 제작 프로젝트)
  - Archive ProJect (개인 기록 저장소)
+</details>
 
+<details>
+
+<summary><b>[🌱 배우는 것들 펼치기 / 접기]</b></summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 🌱 배우는 것들 !
  - **프로그래밍 및 컴퓨터, IT 분야에 관련된 것들을 배우고 있습니다.**
  - HTML
  - Python(discord.py)
  - Raspberry Pi OS(Raspbian)
  - Windows
- 
+</details>
+
+<details>
+ <summary><b>[📚 배우고 싶은 것들 펼치기 / 접기]</b></summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 📚 배우고 싶은 것들 !
  - JS(JavaScript)
  - C/C++/C#
  - Linux
- 
+</details>
+
+<details>
+ <summary><b>[👍 좋아하는 것들 펼치기 / 접기]</b></summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 👍 좋아하는 것들 !
  - 🎮 게임하기
  - 📖 독서하기
  - 유튜브 보기
  - 🔎💻 인터넷 검색하기 (특히 나무위키를 많이 본다는 사실)
  - 메신저로 사람들과 소통하기
+</details>
  
 ### 💬 질문 !
  - 궁금한 점은 idoyun027@gmail.com 메일 보내주세요!
  
-### 📫 연락하는 방법 !
+### 📫 연락하는 방법(How to reach me) !
  - E-Mail: idoyun027@gmail.com
  - Blog: https://blog.naver.com/idoyun027
  - Discord: Sweet_Cloud#9892
@@ -70,6 +100,8 @@
    과거의 편집 실력이나 컨텐츠 진행이 썩 좋지 않았기에 잠깐 쉬면서 더욱 탄탄히 준비하고 있습니다.
    
 #### [ **sweet1cloud (Doyun Lee)의 한국어 소개 끝** ]
+
+
    
 <hr/>
 
@@ -82,6 +114,10 @@ Let me introduce myself!
 
 **[ Beware of scroll pressure! ]**
 
+<details>
+ <summary><b>[🔭 I'm currently working on Expand/collapse]</b></summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 🔭 I'm currently working on ... !
  - **Since 2016, we have been doing online activities.**
  - Please refer to [Here](https://hirool.tistory.com/44) for detailed activity experience (including team activities).<br/>
@@ -99,40 +135,60 @@ Let me introduce myself!
  - **September 18, 2020 ~ ing - Independent**
  - (Old) game team TNBOX, project TV team leader and multiple team operations and experience
  - Developed and operated Discord Chatting bot "**DORKE BOT(Korean: 도르크봇)**"
+</details>
 
+<details>
+ <summary><b>[🖥️ Previous Projects Expand/collapse]</b></summary>
+
+ <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 🖥️ Previous Projects !
  - MeetUP (Schedule Matching Service) [KWC21](http://www.21kwc.com/2020/index.html) contest with [@YubinHeo](https://github.com/yubinheo), [@jinpyojoo](https://github.com/jinpyojoo), [@LeeDonggyu-07](https://github.com/LeeDonggyu-07))
+</details>
 
+<details>
+ <summary><b>[💾 Project in progress Expand/collapse]</b></summary>
+
+ <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 💾 Project in progress
  - ProJect H (personal homepage production project)
  - Archive ProJect (personal record storage)
+</details>
 
+<details>
+ <summary><b>[🌱 I'm currently learning Expand/collapse]</b></summary>
+
+ <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 🌱 I'm currently learning ... !
  -  **💻 I'm learning things about programming, computers, and IT. 💻** 
  - HTML
  - Python(discord.py)
  - Raspberry Pi OS(Raspbian)
  - Windows
- 
+</details>
+
+<details>
+ <summary><b>[📚 Want to learn programming languages Expand/collapse]</b></summary>
+
+ <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 📚 Want to learn programming languages !
  - JS(JavaScript)
  - C/C++/C#
- 
+ </details>
+
+<details>
+ <summary><b>[👍 My favorite things Expand/collapse]</b></summary>
+
+ <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 👍 My favorite things !
  - 🎮 Playing games
  - 📖 reading a book
  - Watching a youtube
  - 🔎💻 Internet Searching
  - Communicating with people via messenger
+</details>
 
 ### 💬 Ask me about !
  - Please email idoyun027@gmail.com with any questions!
- 
-### 📫 How to reach me !
- - E-Mail: idoyun027@gmail.com
- - Blog: https://blog.naver.com/idoyun027
- - Discord: Sweet_Cloud#9892
- - YouTube: [YouTube](https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg)
  
 ### 😄⚡ Fun Fact !
  - I have been met to Internet culture since the first grade of elementary school. In 2015, I got to know YouTube and started uploading videos to YouTube for the first time<br/>
