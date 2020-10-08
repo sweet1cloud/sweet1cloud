@@ -31,7 +31,7 @@
 </details>
  
 <details>
- <summary><b>[🖥️ 이전 프로젝트 펼치기 / 접기]</b></summary>
+ <summary><b>[🖥️ 이전 프로젝트]</b></summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 🖥️ 이전 프로젝트 !
@@ -39,7 +39,7 @@
 </details>
  
 <details>
- <summary><b>[💾 진행 중인 프로젝트 펼치기 / 접기]</b></summary>
+ <summary><b>[💾 진행 중인 프로젝트]</b></summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 💾 진행 중인 프로젝트 !
@@ -49,7 +49,7 @@
 
 <details>
 
-<summary><b>[🌱 배우는 것들 펼치기 / 접기]</b></summary>
+<summary><b>[🌱 배우는 것들]</b></summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 🌱 배우는 것들 !
@@ -61,7 +61,7 @@
 </details>
 
 <details>
- <summary><b>[📚 배우고 싶은 것들 펼치기 / 접기]</b></summary>
+ <summary><b>[📚 배우고 싶은 것들]</b></summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 📚 배우고 싶은 것들 !
@@ -71,7 +71,7 @@
 </details>
 
 <details>
- <summary><b>[👍 좋아하는 것들 펼치기 / 접기]</b></summary>
+ <summary><b>[👍 좋아하는 것들]</b></summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 👍 좋아하는 것들 !
@@ -81,22 +81,38 @@
  - 🔎💻 인터넷 검색하기 (특히 나무위키를 많이 본다는 사실)
  - 메신저로 사람들과 소통하기
 </details>
- 
+
+<details>
+ <summary><b>[💬 질문]</b></summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 💬 질문 !
  - 궁금한 점은 idoyun027@gmail.com 메일 보내주세요!
- 
+</details>
+
+<details>
+ <summary><b>[📫 연락하는 방법]</b></summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 📫 연락하는 방법(How to reach me) !
  - E-Mail: idoyun027@gmail.com
  - Blog: https://blog.naver.com/idoyun027
  - Discord: Sweet_Cloud#9999
  - YouTube: [YouTube](https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg)
- 
-### 😄⚡ 재밌는 사실 !
+</details> 
+
+<details>
+ <summary><b>[😄 재밌는 사실]</b></summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+### 😄 재밌는 사실 !
  - 초등학교 1학년 때부터 인터넷 문화를 접하게 되었습니다. 2015년에 유튜브를 알게 돼서 처음으로 유튜브에 동영상을 업로드하기 시작했고,<br/>
    2016년부터는 본격적으로 유튜브 활동을 했었습니다. 유튜브 활동을 했었을 때는 게임 유튜브를 운영했었습니다.<br/>
    게임 유튜브 시절에는 초딩답게(?) 마인크래프트를 자주했고 모바일 게임도 가끔씩 했습니다.<br/>
    저는 주변에 몇몇 사람들에게도 유튜버라고 알려졌지만 현재는 슬럼프(?)가 왔기도 했고,<br/>
    과거의 편집 실력이나 컨텐츠 진행이 썩 좋지 않았기에 잠깐 쉬면서 더욱 탄탄히 준비하고 있습니다.
+</details>
+
    
 #### [ **sweet1cloud (Doyun Lee)의 한국어 소개 끝** ]
 
@@ -110,7 +126,7 @@
 Let me introduce myself!
 
 <details>
- <summary><b>[🔭 I'm currently working on Expand/collapse]</b></summary>
+ <summary><b>[🔭 I'm currently working on]</b></summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 🔭 I'm currently working on ... !
@@ -133,7 +149,7 @@ Let me introduce myself!
 </details>
 
 <details>
- <summary><b>[🖥️ Previous Projects Expand/collapse]</b></summary>
+ <summary><b>[🖥️ Previous Projects]</b></summary>
 
  <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 🖥️ Previous Projects !
@@ -141,7 +157,7 @@ Let me introduce myself!
 </details>
 
 <details>
- <summary><b>[💾 Project in progress Expand/collapse]</b></summary>
+ <summary><b>[💾 Project in progress]</b></summary>
 
  <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 💾 Project in progress
@@ -150,7 +166,7 @@ Let me introduce myself!
 </details>
 
 <details>
- <summary><b>[🌱 I'm currently learning Expand/collapse]</b></summary>
+ <summary><b>[🌱 I'm currently learning]</b></summary>
 
  <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 🌱 I'm currently learning ... !
@@ -162,7 +178,7 @@ Let me introduce myself!
 </details>
 
 <details>
- <summary><b>[📚 Want to learn programming languages Expand/collapse]</b></summary>
+ <summary><b>[📚 Want to learn programming languages]</b></summary>
 
  <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 📚 Want to learn programming languages !
@@ -171,7 +187,7 @@ Let me introduce myself!
  </details>
 
 <details>
- <summary><b>[👍 My favorite things Expand/collapse]</b></summary>
+ <summary><b>[👍 My favorite things]</b></summary>
 
  <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 👍 My favorite things !
@@ -182,14 +198,25 @@ Let me introduce myself!
  - Communicating with people via messenger
 </details>
 
+<details>
+ <summary><b>[💬 Ask me about]</b></summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 💬 Ask me about !
  - Please email idoyun027@gmail.com with any questions!
- 
-### 😄⚡ Fun Fact !
+</details>
+
+<details>
+ <summary><b>[😄 Fun Fact]</b></summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+### 😄 Fun Fact !
  - I have been met to Internet culture since the first grade of elementary school. In 2015, I got to know YouTube and started uploading videos to YouTube for the first time<br/>
    I have been active on YouTube since 2016. While working on YouTube, I started a Youtube game.<br/>
    On YouTube, I often played Minecraft like an elementary school student (?) and sometimes played mobile games.<br/>
    It was known to the people around you as a YouTube user, but now a slump (?) occurred.<br/>
    Past editing skills and content progress weren't that good, so we're taking a break to get a little more prepared.
+</details>
+
    
 #### [**End of English introduction of sweet1cloud (Doyun Lee)**]
