@@ -24,8 +24,13 @@
  - **2020년 7월 20일 팀 어센틱 2기 결성 및 활동 시작**
  - **2020년 8월 26일 – 팀 어센틱(Team Acentic) → 어센틱 네트워크(Acentic Network) 명칭 변경**
  - 2020년 8월 27일 – 어센틱 네트워크 내부 팀 – 어센틱 튜토리얼(Acentic Tutorials) 결성
- - **2020년 9월 18일 – 어센틱 네트워크 해체 및 어센틱 튜토리얼 독립**
- - **2020년 9월 18일 ~ ing – 무소속**
+ - **2020년 9월 18일 – 어센틱 네트워크 해체, 어센틱 튜토리얼 독립 및 탈퇴**
+ - 2020년 9월 26일 – 어센틱 튜토리얼, 팀 네임리스 편입
+ - 2020년 9월 18일 ~ 10월 22일 – 무소속
+ - **2020년 10월 22일 – 쿠키엔크루(Cookie And Crew) 결성**
+  (멤버: 지몬, 도르크, 닦개, 서도, 윤호)
+ - **2020년 11월 12일 – 청라온(청소년 언론) 홍보책임자 및 페이스북 페이지 소유 및 관리자**
+
  - 前 게임 팀 TNBOX, 프로젝트 TV 팀장 및 다수의 팀 운영 및 활동 경력 보유
  - 디스코드 챗봇 "**도르크봇**" 개발 및 운영
 </details>
@@ -143,7 +148,12 @@ Let me introduce myself!
  - **August 26, 2020 - Team Acentic → Changed the name of Acentic Networks.**
  - August 27, 2020 - Acentic Network internal team - Acentic Tutorials configuration
  - **September 18, 2020 - Acentic Network disruption and Acentic Tutorials independent**
- - **September 18, 2020 ~ ing - Independent**
+ - **September 18, 2020 - Acentic Network dissolution, Authentic tutorial independence and withdrawal**
+ - September 26, 2020 - Acentic Tutorial, Team Nameless Transfer
+ - Sep. 18 ~ Oct. 22, 2020 - Independent
+ - **October 22, 2020 - Cookie And Crew Formation**
+  (Members: XYmon, Sweet_Cloud, 닦개, 서도, Yoonho)
+ - **November 12, 2020 - ChungRaon (Youth Press) PR Manager and Facebook page owner and manager**
  - (Old) game team TNBOX, project TV team leader and multiple team operations and experience
  - Developed and operated Discord Chatting bot "**DORKE BOT(Korean: 도르크봇)**"
 </details>
