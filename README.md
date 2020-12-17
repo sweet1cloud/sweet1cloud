@@ -154,7 +154,7 @@ Let me introduce myself!
  - Sep. 18 ~ Oct. 22, 2020 - Independent
  - **October 22, 2020 - Cookie And Crew Formation**
   (Members: XYmon, Sweet_Cloud, 닦개, 서도, Yoonho)
- - **November 12, 2020 - ChungRaon (Youth Press) PR Manager and Facebook page owner and manager**
+ - **November 12, 2020 - ChungRaon (Youth Press) PR Manager and [Facebook page](https://www.facebook.com/chungraon) owner and manager**
  - (Old) game team TNBOX, project TV team leader and multiple team operations and experience
  - Developed and operated Discord Chatting bot "**DORKE BOT(Korean: 도르크봇)**"
 </details>
@@ -174,6 +174,7 @@ Let me introduce myself!
 ### 💾 Project in progress
  - ProJect H (personal homepage production project)
  - Archive ProJect (personal record storage)
+ - [Chungraon](http://chungraon.com) (Youth Press)
 </details>
 
 <details>
