@@ -29,7 +29,7 @@
  - 2020년 9월 18일 ~ 10월 22일 – 무소속
  - **2020년 10월 22일 – 쿠키엔크루(Cookie And Crew) 결성**
   (멤버: 지몬, 도르크, 닦개, 서도, 윤호)
- - **2020년 11월 12일 – 청라온(청소년 언론) 홍보책임자 및 페이스북 페이지 소유 및 관리자**
+ - **2020년 11월 12일 – 청라온(청소년 언론) 홍보책임자 및 [페이스북 페이지](https://www.facebook.com/chungraon) 소유 및 관리자**
 
  - 前 게임 팀 TNBOX, 프로젝트 TV 팀장 및 다수의 팀 운영 및 활동 경력 보유
  - 디스코드 챗봇 "**도르크봇**" 개발 및 운영
@@ -50,6 +50,7 @@
 ### 💾 진행 중인 프로젝트 !
  - ProJect H (개인 홈페이지 제작 프로젝트)
  - Archive ProJect (개인 기록 저장소)
+ - [청라온](http://chungraon.com) (청소년 언론)
 </details>
 
 <details>
@@ -102,7 +103,7 @@
 ### 📫 연락하는 방법(How to reach me) !
  - E-Mail: idoyun027@gmail.com
  - Blog: https://blog.naver.com/idoyun027
- - Discord: Sweet_Cloud#9999
+ - Discord: https://discord.com/users/284143521886109697
  - YouTube: [YouTube](https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg)
 </details> 
 
