@@ -18,7 +18,7 @@
  - 현재 [네이버 블로그](https://blog.naver.com/idoyun027) 운영 중.
  - 2016 ~ 2020년 게임 & IT 및 잡다한 주제의 [유튜브](https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg) 운영 (현재는 잠깐 쉬고 있고 조만간 유튜브 활동 준비할 예정입니다.)
  - 개인 개발 프로젝트인 "**도르크 프로젝트**" 진행 준비중
- - Cherry Networks(Devup) 기획팀 담당자 및 소속 팀원 (2020.04.10 ~ 2020.04.26)<br/>
+ - Cherry Networks(Devup) 기획팀 담당자 및 소속 팀원 (2020.04.10. ~ 2020.04.26.)<br/>
  - 팀 어센틱 1기 결성 멤버 및 제19회 2020 KWC (Korea Wi.content Contest) 콘텐츠 제작 모바일 웹 분야 참여 – 기획 팀원 (2020년 6월 15일 ~ 8월 4일)
  - **제19회 2020 KWC (Korea Wi.content Contest) 예선 탈락**
  - **2020년 7월 20일 팀 어센틱 2기 결성 및 활동 시작**
@@ -29,7 +29,8 @@
  - 2020년 9월 18일 ~ 10월 22일 – 무소속
  - **2020년 10월 22일 – 쿠키엔크루(Cookie And Crew) 결성**
   (멤버: 지몬, 도르크, 닦개, 서도, 윤호)
- - **2020년 11월 12일 – 청라온(청소년 언론) 홍보책임자 및 [페이스북 페이지](https://www.facebook.com/chungraon) 소유 및 관리자**
+ - **2020년 11월 12일 ~ ing - 청라온(청소년 언론) 홍보책임자 및 [페이스북 페이지](https://www.facebook.com/chungraon) 소유 및 관리자**
+ - **2020년 12월 26일 - 쿠키엔크루(Cookie And Crew) 활동 불가 및 사실상 해체**
 
  - 前 게임 팀 TNBOX, 프로젝트 TV 팀장 및 다수의 팀 운영 및 활동 경력 보유
  - 디스코드 챗봇 "**도르크봇**" 개발 및 운영
@@ -83,9 +84,10 @@
 ### 👍 좋아하는 것들 !
  - 🎮 게임하기
  - 📖 독서하기
- - 유튜브 보기
+ - ![YouTube](https://cdn.emojidex.com/emoji/hdpi/YouTube.png "YouTube") 유튜브 보기
  - 🔎💻 인터넷 검색하기 (특히 나무위키를 많이 본다는 사실)
- - 메신저로 사람들과 소통하기
+ - 💬 메신저로 사람들과 소통하기
+ - 📻 라디오 듣기
 </details>
 
 <details>
@@ -142,7 +144,7 @@ Let me introduce myself!
  - 2016~2020 Game & IT and miscellaneous topics [YouTube](https://www.youtube.com/channel/UC1v2JDiftMw7epyndnVA_Bg) operation<br/>
    (currently we are taking a break and we will be preparing for YouTube activity soon.)
  - A personal development project "**sweet1cloud Project(Korean: 도르크 프로젝트)**" is being prepared.
- - Cherry Networks (Devup) Planning Team Manager & Team Member (2020.04.10 ~ 2020.04.26)<br/>
+ - Cherry Networks (Devup) Planning Team Manager & Team Member (2020.04.10. ~ 2020.04.26.)<br/>
  - Team Acentic 1st group formation member and participation in the 19th 2020 KWC (Korea Wi.content Contest) content production mobile web field-Planning team member (June 15th ~ August 4th, 2020)
  - **Excluded from the 19th 2020 KWC (Korea Wi.content Contest) preliminary round**
  - **Team Acentic Phase 2 configuration and activities start on July 20, 2020**
@@ -154,7 +156,9 @@ Let me introduce myself!
  - Sep. 18 ~ Oct. 22, 2020 - Independent
  - **October 22, 2020 - Cookie And Crew Formation**
   (Members: XYmon, Sweet_Cloud, 닦개, 서도, Yoonho)
- - **November 12, 2020 - ChungRaon (Youth Press) PR Manager and [Facebook page](https://www.facebook.com/chungraon) owner and manager**
+ - **November 12, 2020 ~ ing - ChungRaon (Youth Press) PR Manager and [Facebook page](https://www.facebook.com/chungraon) owner and manager**
+ - **December 26, 2020 - Cookie And Crew inactive and virtually dismantled**
+ 
  - (Old) game team TNBOX, project TV team leader and multiple team operations and experience
  - Developed and operated Discord Chatting bot "**DORKE BOT(Korean: 도르크봇)**"
 </details>
@@ -205,9 +209,10 @@ Let me introduce myself!
 ### 👍 My favorite things !
  - 🎮 Playing games
  - 📖 reading a book
- - Watching a youtube
+ - ![YouTube](https://cdn.emojidex.com/emoji/hdpi/YouTube.png "YouTube") Watching a youtube
  - 🔎💻 Internet Searching
- - Communicating with people via messenger
+ - 💬 Communicating with people via messenger
+ - 📻 Listen to the radio
 </details>
 
 <details>
