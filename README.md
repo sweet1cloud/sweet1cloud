@@ -31,6 +31,7 @@
   (멤버: 지몬, 도르크, 닦개, 서도, 윤호)
  - **2020년 11월 12일 ~ ing - 청라온(청소년 언론) 홍보책임자 및 [페이스북 페이지](https://www.facebook.com/chungraon) 소유 및 관리자**
  - **2020년 12월 26일 - 쿠키엔크루(Cookie And Crew) 활동 불가 및 사실상 해체**
+ - **2021년 2월 17일 ~ ing – 팀 샛별 소속**
 
  - 前 게임 팀 TNBOX, 프로젝트 TV 팀장 및 다수의 팀 운영 및 활동 경력 보유
  - 디스코드 챗봇 "**도르크봇**" 개발 및 운영
@@ -158,6 +159,7 @@ Let me introduce myself!
   (Members: XYmon, Sweet_Cloud, 닦개, 서도, Yoonho)
  - **November 12, 2020 ~ ing - ChungRaon (Youth Press) PR Manager and [Facebook page](https://www.facebook.com/chungraon) owner and manager**
  - **December 26, 2020 - Cookie And Crew inactive and virtually dismantled**
+ - **February 17, 2021 ~ ing - Team Saetbyeol**
  
  - (Old) game team TNBOX, project TV team leader and multiple team operations and experience
  - Developed and operated Discord Chatting bot "**DORKE BOT(Korean: 도르크봇)**"
