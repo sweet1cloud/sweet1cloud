@@ -1,5 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sweet1cloud&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📫 Contact
  - E-Mail: idoyun027@gmail.com
  - Blog: https://blog.naver.com/idoyun027
